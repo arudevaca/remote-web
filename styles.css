@@ -1,0 +1,16 @@
+strong{
+    font-size: 40px;
+    padding: 30px ;
+}
+.contenedorpadre{
+    display:  flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contenedor2{
+    display: flex;
+    align-items: center;     
+}
+.contenedor3{
+    justify-content: right; 
+}
